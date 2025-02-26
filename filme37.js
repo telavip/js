@@ -1,5 +1,5 @@
 window.series37Data = {
-{
+
     "20235": {
         "id": "20235",
         "name": "O Mundo Mágico da Bela",
@@ -35,9 +35,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "993729": {
         "id": "993729",
         "name": "South Park: Guerras do Streaming Parte 2",
@@ -74,9 +72,7 @@ window.series37Data = {
             "Comédia",
             "Cinema TV"
         ]
-    }
 },
-{
     "597316": {
         "id": "597316",
         "name": "My Little Pony: Nova Geração",
@@ -119,9 +115,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "537059": {
         "id": "537059",
         "name": "Liga da Justiça: Os Cinco Fatais",
@@ -163,9 +157,7 @@ window.series37Data = {
             "Ficção científica",
             "Fantasia"
         ]
-    }
 },
-{
     "14787": {
         "id": "14787",
         "name": "Tom & Jerry: O Anel Mágico",
@@ -211,9 +203,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "56553": {
         "id": "56553",
         "name": "Esquadrão Resgate Mate",
@@ -250,9 +240,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "1037929": {
         "id": "1037929",
         "name": "Mickey Salva o Natal",
@@ -294,9 +282,7 @@ window.series37Data = {
             "Cinema TV",
             "Comédia"
         ]
-    }
 },
-{
     "23998": {
         "id": "23998",
         "name": "É Natal de novo, Charlie Brown",
@@ -346,9 +332,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "1297763": {
         "id": "1297763",
         "name": "ニンジャバットマン対ヤクザリーグ",
@@ -392,9 +376,7 @@ window.series37Data = {
             "Animação",
             "Ação"
         ]
-    }
 },
-{
     "12233": {
         "id": "12233",
         "name": "Oliver e Sua Turma",
@@ -439,9 +421,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "88212": {
         "id": "88212",
         "name": "Preparação e Pouso: Operação Presente Secreto",
@@ -478,9 +458,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "46219": {
         "id": "46219",
         "name": "A Arca",
@@ -517,9 +495,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "16157": {
         "id": "16157",
         "name": "Mobile Suit Gundam: Char Contra-ataca!",
@@ -572,9 +548,7 @@ window.series37Data = {
             "Ação",
             "Ficção científica"
         ]
-    }
 },
-{
     "726661": {
         "id": "726661",
         "name": "O Ônibus Mágico Decola Novamente - Rumo ao Espaço",
@@ -605,9 +579,7 @@ window.series37Data = {
             "Animação",
             "Aventura"
         ]
-    }
 },
-{
     "11802": {
         "id": "11802",
         "name": "Space Chimps - Micos no Espaço",
@@ -662,9 +634,7 @@ window.series37Data = {
             "Comédia",
             "Ficção científica"
         ]
-    }
 },
-{
     "31933": {
         "id": "31933",
         "name": "Em Busca do Vale Encantado XII: O Grande Dia dos Voadores",
@@ -701,9 +671,7 @@ window.series37Data = {
             "Família",
             "Aventura"
         ]
-    }
 },
-{
     "24251": {
         "id": "24251",
         "name": "Eu Quero um Cachorro para o Natal, Charlie Brown",
@@ -749,9 +717,7 @@ window.series37Data = {
             "Família",
             "Cinema TV"
         ]
-    }
 },
-{
     "55503": {
         "id": "55503",
         "name": "A Fonte da Juventude de Donald",
@@ -783,9 +749,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "513386": {
         "id": "513386",
         "name": "Cats e a Gatolândia",
@@ -826,9 +790,7 @@ window.series37Data = {
             "Família",
             "Aventura"
         ]
-    }
 },
-{
     "649928": {
         "id": "649928",
         "name": "A Sabiá Sabiazinha",
@@ -865,9 +827,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "1012801": {
         "id": "1012801",
         "name": "Barbie - O Poder das Sereias",
@@ -911,9 +871,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "20077": {
         "id": "20077",
         "name": "Batman vs. Drácula",
@@ -956,9 +914,7 @@ window.series37Data = {
             "Mistério",
             "Ficção científica"
         ]
-    }
 },
-{
     "50087": {
         "id": "50087",
         "name": "Pokémon: Zoroark - Mestre das Ilusões",
@@ -1028,9 +984,7 @@ window.series37Data = {
             "Aventura",
             "Fantasia"
         ]
-    }
 },
-{
     "167666": {
         "id": "167666",
         "name": "Monster High: Fuga da Ilha do Esqueleto",
@@ -1075,9 +1029,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "199753": {
         "id": "199753",
         "name": "Tom & Jerry: Aventura com o Gigante",
@@ -1115,9 +1067,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "408355": {
         "id": "408355",
         "name": "O Reino dos Elfos",
@@ -1154,9 +1104,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "4978": {
         "id": "4978",
         "name": "Um Conto Americano",
@@ -1203,9 +1151,7 @@ window.series37Data = {
             "Drama",
             "Família"
         ]
-    }
 },
-{
     "560066": {
         "id": "560066",
         "name": "Scooby-Doo! e a Maldição do 13° Fantasma",
@@ -1244,9 +1190,7 @@ window.series37Data = {
             "Aventura",
             "Mistério"
         ]
-    }
 },
-{
     "33037": {
         "id": "33037",
         "name": "Oi, Galera, Sou o Zé Colmeia!",
@@ -1288,9 +1232,7 @@ window.series37Data = {
             "Família",
             "Aventura"
         ]
-    }
 },
-{
     "580312": {
         "id": "580312",
         "name": "The Dog Days of Winter",
@@ -1327,9 +1269,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "14704": {
         "id": "14704",
         "name": "Donkey Xote",
@@ -1378,9 +1318,7 @@ window.series37Data = {
             "Aventura",
             "Animação"
         ]
-    }
 },
-{
     "643058": {
         "id": "643058",
         "name": "Aggretsuko: Feliz Natal Metaleiro",
@@ -1416,9 +1354,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "230896": {
         "id": "230896",
         "name": "Homem de Ferro e Hulk: Super-Heróis Unidos",
@@ -1456,9 +1392,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "57199": {
         "id": "57199",
         "name": "Lata-Velha Voadora",
@@ -1495,9 +1429,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "454549": {
         "id": "454549",
         "name": "Zumbilênio: O Parque dos Monstros",
@@ -1574,9 +1506,7 @@ window.series37Data = {
             "Animação",
             "Fantasia"
         ]
-    }
 },
-{
     "818350": {
         "id": "818350",
         "name": "Blush",
@@ -1612,9 +1542,7 @@ window.series37Data = {
             "Ficção científica",
             "Família"
         ]
-    }
 },
-{
     "844075": {
         "id": "844075",
         "name": "A Guerra dos Deuses",
@@ -1652,9 +1580,7 @@ window.series37Data = {
             "Fantasia",
             "Comédia"
         ]
-    }
 },
-{
     "537056": {
         "id": "537056",
         "name": "Batman: Silêncio",
@@ -1696,9 +1622,7 @@ window.series37Data = {
             "Crime",
             "Mistério"
         ]
-    }
 },
-{
     "574089": {
         "id": "574089",
         "name": "Fitas",
@@ -1733,9 +1657,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "24480": {
         "id": "24480",
         "name": "Parcialmente Nublado",
@@ -1769,9 +1691,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "476631": {
         "id": "476631",
         "name": "Barbie e os Golfinhos Mágicos",
@@ -1817,9 +1737,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "594530": {
         "id": "594530",
         "name": "Aventuras de Betty",
@@ -1859,9 +1777,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "25961": {
         "id": "25961",
         "name": "Pokémon: O Pesadelo de Darkrai",
@@ -1933,9 +1849,7 @@ window.series37Data = {
             "Ação",
             "Ficção científica"
         ]
-    }
 },
-{
     "339877": {
         "id": "339877",
         "name": "Com Amor, Van Gogh",
@@ -1989,9 +1903,7 @@ window.series37Data = {
             "Mistério",
             "História"
         ]
-    }
 },
-{
     "3509": {
         "id": "3509",
         "name": "O Homem Duplo",
@@ -2044,9 +1956,7 @@ window.series37Data = {
             "Ficção científica",
             "Thriller"
         ]
-    }
 },
-{
     "88557": {
         "id": "88557",
         "name": "Pokémon o Filme: Branco - Victini e Zekrom",
@@ -2125,9 +2035,7 @@ window.series37Data = {
             "Drama",
             "Fantasia"
         ]
-    }
 },
-{
     "843906": {
         "id": "843906",
         "name": "Diretamente de Lugar Nenhum: Scooby-Doo! Encontra Coragem",
@@ -2172,9 +2080,7 @@ window.series37Data = {
             "Aventura",
             "Terror"
         ]
-    }
 },
-{
     "761898": {
         "id": "761898",
         "name": "Sword Art Online Progressive: Ária de uma Noite Sem Estrelas",
@@ -2236,9 +2142,7 @@ window.series37Data = {
             "Fantasia",
             "Ficção científica"
         ]
-    }
 },
-{
     "67043": {
         "id": "67043",
         "name": "O Encontro Atrasado de Mickey",
@@ -2272,9 +2176,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "543583": {
         "id": "543583",
         "name": "Cinderela e o Príncipe Secreto",
@@ -2316,9 +2218,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "13042": {
         "id": "13042",
         "name": "Presto",
@@ -2355,9 +2255,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "399268": {
         "id": "399268",
         "name": "Thomas E Seus Amigos: A Grande Corrida",
@@ -2397,9 +2295,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "651249": {
         "id": "651249",
         "name": "Vera - Sonhos de Inverno",
@@ -2436,9 +2332,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "14317": {
         "id": "14317",
         "name": "Os Thornberrys - O Filme",
@@ -2483,9 +2377,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "400328": {
         "id": "400328",
         "name": "Gavin - Um Ratinho Corajoso",
@@ -2533,9 +2425,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "918832": {
         "id": "918832",
         "name": "George, o Curioso: Aventuras no Mar",
@@ -2580,9 +2470,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "646265": {
         "id": "646265",
         "name": "Atiraram no Pianista",
@@ -2663,9 +2551,7 @@ window.series37Data = {
             "Drama",
             "História"
         ]
-    }
 },
-{
     "888910": {
         "id": "888910",
         "name": "Caixa Postal 1142: O Campo Secreto para Nazistas nos EUA",
@@ -2701,9 +2587,7 @@ window.series37Data = {
             "Animação",
             "História"
         ]
-    }
 },
-{
     "660862": {
         "id": "660862",
         "name": "Garfinho Pergunta: O Que é um Líder?",
@@ -2738,9 +2622,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "17009": {
         "id": "17009",
         "name": "Os Jetsons: O Filme",
@@ -2778,9 +2660,7 @@ window.series37Data = {
             "Família",
             "Ficção científica"
         ]
-    }
 },
-{
     "862491": {
         "id": "862491",
         "name": "Mulher-Gato: A Caçada",
@@ -2821,9 +2701,7 @@ window.series37Data = {
             "Ação",
             "Crime"
         ]
-    }
 },
-{
     "15805": {
         "id": "15805",
         "name": "Batman & Mr. Freeze: Abaixo de Zero",
@@ -2860,9 +2738,7 @@ window.series37Data = {
             "Ação",
             "Crime"
         ]
-    }
 },
-{
     "337703": {
         "id": "337703",
         "name": "A Tartaruga Vermelha",
@@ -2923,9 +2799,7 @@ window.series37Data = {
             "Fantasia",
             "Família"
         ]
-    }
 },
-{
     "333667": {
         "id": "333667",
         "name": "Rock Dog: No Faro do Sucesso",
@@ -2988,9 +2862,7 @@ window.series37Data = {
             "Família",
             "Música"
         ]
-    }
 },
-{
     "199414": {
         "id": "199414",
         "name": "Joy Street",
@@ -3015,9 +2887,7 @@ window.series37Data = {
             "Drama",
             "Fantasia"
         ]
-    }
 },
-{
     "658558": {
         "id": "658558",
         "name": "Kyochuu Rettou Movie",
@@ -3056,9 +2926,7 @@ window.series37Data = {
             "Terror",
             "Aventura"
         ]
-    }
 },
-{
     "255718": {
         "id": "255718",
         "name": "Barbie: A Sereia das Pérolas",
@@ -3098,9 +2966,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "268690": {
         "id": "268690",
         "name": "A Lenda das Múmias",
@@ -3143,9 +3009,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "21683": {
         "id": "21683",
         "name": "Batman: O Mistério da Mulher-Morcego",
@@ -3187,9 +3051,7 @@ window.series37Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "352812": {
         "id": "352812",
         "name": "Tick Tock Tale",
@@ -3224,9 +3086,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "504997": {
         "id": "504997",
         "name": "LEGO Super Heróis DC: O Flash",
@@ -3273,9 +3133,7 @@ window.series37Data = {
             "Família",
             "Ficção científica"
         ]
-    }
 },
-{
     "18937": {
         "id": "18937",
         "name": "A Espada Mágica: A Lenda de Camelot",
@@ -3314,9 +3172,7 @@ window.series37Data = {
             "Romance",
             "Família"
         ]
-    }
 },
-{
     "327418": {
         "id": "327418",
         "name": "Batman Sem Limites: Instintos Animais",
@@ -3357,9 +3213,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "67592": {
         "id": "67592",
         "name": "Mickey e o Tufão: O Pequeno Furacão",
@@ -3392,9 +3246,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "20558": {
         "id": "20558",
         "name": "Scooby-Doo! em Cadê a minha Múmia",
@@ -3434,9 +3286,7 @@ window.series37Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "980804": {
         "id": "980804",
         "name": "LEGO Star Wars: Férias de Verão",
@@ -3483,9 +3333,7 @@ window.series37Data = {
             "Comédia",
             "Cinema TV"
         ]
-    }
 },
-{
     "135908": {
         "id": "135908",
         "name": "O Rolo Compressor do Mickey",
@@ -3520,9 +3368,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "1093349": {
         "id": "1093349",
         "name": "Barbie: Skipper e a Grande Aventura de Babás",
@@ -3570,9 +3416,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "518972": {
         "id": "518972",
         "name": "Chhota Bheem aur Krishna: Pataliputra - City of the Dead",
@@ -3610,9 +3454,7 @@ window.series37Data = {
             "Animação",
             "Cinema TV"
         ]
-    }
 },
-{
     "334376": {
         "id": "334376",
         "name": "Ghost in the Shell: O Novo Filme",
@@ -3648,9 +3490,7 @@ window.series37Data = {
             "Ficção científica",
             "Animação"
         ]
-    }
 },
-{
     "882206": {
         "id": "882206",
         "name": "L.O.L. Surprise! - O Filme",
@@ -3686,9 +3526,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "134632": {
         "id": "134632",
         "name": "Monster High: Uma Festa de Arrepiar",
@@ -3728,9 +3566,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "291270": {
         "id": "291270",
         "name": "Anomalisa",
@@ -3770,9 +3606,7 @@ window.series37Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "14945": {
         "id": "14945",
         "name": "Origem: Espíritos do Passado",
@@ -3817,9 +3651,7 @@ window.series37Data = {
             "Romance",
             "Ação"
         ]
-    }
 },
-{
     "587317": {
         "id": "587317",
         "name": "Bombay Rose",
@@ -3864,9 +3696,7 @@ window.series37Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "1258164": {
         "id": "1258164",
         "name": "Thomas e sues Amigos: Resgatando o Natal",
@@ -3909,9 +3739,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "470370": {
         "id": "470370",
         "name": "Thomas e Seus Amigos: Viagem ao Desconhecido",
@@ -3956,9 +3784,7 @@ window.series37Data = {
             "Família",
             "Música"
         ]
-    }
 },
-{
     "686941": {
         "id": "686941",
         "name": "Dragões: Equipe de Resgate: Em Busca do Dragão Dourado",
@@ -3995,9 +3821,7 @@ window.series37Data = {
             "Família",
             "Cinema TV"
         ]
-    }
 },
-{
     "752455": {
         "id": "752455",
         "name": "O Presente de Natal de Angela",
@@ -4033,9 +3857,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "294512": {
         "id": "294512",
         "name": "A Lady e o Lobo 4: A Caverna Misteriosa",
@@ -4077,9 +3899,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "23166": {
         "id": "23166",
         "name": "The Garden of Sinners: Registros do Esquecimento - Conto de Fadas",
@@ -4127,9 +3947,7 @@ window.series37Data = {
             "Animação",
             "Fantasia"
         ]
-    }
 },
-{
     "12903": {
         "id": "12903",
         "name": "Scooby-Doo! e o Rei dos Duendes",
@@ -4173,9 +3991,7 @@ window.series37Data = {
             "Fantasia",
             "Música"
         ]
-    }
 },
-{
     "156468": {
         "id": "156468",
         "name": "As Olimpíadas do Mickey",
@@ -4209,9 +4025,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "148605": {
         "id": "148605",
         "name": "Mate: Caminhão Monstro",
@@ -4250,9 +4064,7 @@ window.series37Data = {
             "Aventura",
             "Ação"
         ]
-    }
 },
-{
     "1132535": {
         "id": "1132535",
         "name": "Marcados: A História do Racismo nos EUA",
@@ -4292,9 +4104,7 @@ window.series37Data = {
             "Documentário",
             "Animação"
         ]
-    }
 },
-{
     "42330": {
         "id": "42330",
         "name": "O Rei Macaco: Uma Aventura Mágica",
@@ -4324,9 +4134,7 @@ window.series37Data = {
             "Fantasia",
             "Aventura"
         ]
-    }
 },
-{
     "683127": {
         "id": "683127",
         "name": "Aya e a Bruxa",
@@ -4371,9 +4179,7 @@ window.series37Data = {
             "Fantasia",
             "Família"
         ]
-    }
 },
-{
     "17445": {
         "id": "17445",
         "name": "Lanterna Verde: Primeiro Vôo",
@@ -4416,9 +4222,7 @@ window.series37Data = {
             "Animação",
             "Ficção científica"
         ]
-    }
 },
-{
     "67167": {
         "id": "67167",
         "name": "A Oficina do Papai Noel",
@@ -4455,9 +4259,7 @@ window.series37Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "433694": {
         "id": "433694",
         "name": "Sargento Stubby",
@@ -4500,9 +4302,7 @@ window.series37Data = {
             "História",
             "Guerra"
         ]
-    }
 },
-{
     "429657": {
         "id": "429657",
         "name": "Albert",
@@ -4542,9 +4342,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "947507": {
         "id": "947507",
         "name": "Super Normal",
@@ -4585,9 +4383,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "14611": {
         "id": "14611",
         "name": "Os Supremos 2: Descubra o Poder da Pantera",
@@ -4633,9 +4429,7 @@ window.series37Data = {
             "Ação",
             "Ficção científica"
         ]
-    }
 },
-{
     "15789": {
         "id": "15789",
         "name": "Pateta: O Filme",
@@ -4694,9 +4488,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "511817": {
         "id": "511817",
         "name": "Wendell & Wild",
@@ -4739,9 +4531,7 @@ window.series37Data = {
             "Terror",
             "Família"
         ]
-    }
 },
-{
     "240341": {
         "id": "240341",
         "name": "Ghost in the Shell Arise: Limite 3 - Lágrimas Fantasmas",
@@ -4794,9 +4584,7 @@ window.series37Data = {
             "Animação",
             "Ficção científica"
         ]
-    }
 },
-{
     "1031827": {
         "id": "1031827",
         "name": "O Maravilhoso Outono do Mickey Mouse",
@@ -4833,9 +4621,7 @@ window.series37Data = {
             "Família",
             "Aventura"
         ]
-    }
 },
-{
     "24102": {
         "id": "24102",
         "name": "Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado",
@@ -4881,9 +4667,7 @@ window.series37Data = {
             "Drama",
             "Família"
         ]
-    }
 },
-{
     "406785": {
         "id": "406785",
         "name": "Cabeça ou Coração",
@@ -4921,9 +4705,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "49953": {
         "id": "49953",
         "name": "As Aventuras de Sammy",
@@ -4975,9 +4757,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "516355": {
         "id": "516355",
         "name": "Memórias de um Homem de Pijama",
@@ -5007,9 +4787,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "828751": {
         "id": "828751",
         "name": "Bestia",
@@ -5044,9 +4822,7 @@ window.series37Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "975490": {
         "id": "975490",
         "name": "Snoopy Apresenta: A Escola da Lucy",
@@ -5087,9 +4863,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "258096": {
         "id": "258096",
         "name": "A Lady e o Lobo 3: A Grande Competição",
@@ -5131,9 +4905,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "247788": {
         "id": "247788",
         "name": "As Aventuras dos 7 Anões",
@@ -5175,9 +4947,7 @@ window.series37Data = {
             "Animação",
             "Aventura"
         ]
-    }
 },
-{
     "610892": {
         "id": "610892",
         "name": "Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória",
@@ -5226,9 +4996,7 @@ window.series37Data = {
             "Fantasia",
             "Animação"
         ]
-    }
 },
-{
     "16340": {
         "id": "16340",
         "name": "Rugrats em Paris: O Filme",
@@ -5274,9 +5042,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "401650": {
         "id": "401650",
         "name": "DC Super Hero Girls: Heroína do Ano",
@@ -5317,9 +5083,7 @@ window.series37Data = {
             "Família",
             "Ação"
         ]
-    }
 },
-{
     "13933": {
         "id": "13933",
         "name": "A Banda de um Homem Só",
@@ -5351,9 +5115,7 @@ window.series37Data = {
             "Família",
             "Música"
         ]
-    }
 },
-{
     "293299": {
         "id": "293299",
         "name": "O Banquete",
@@ -5395,9 +5157,7 @@ window.series37Data = {
             "Drama",
             "Família"
         ]
-    }
 },
-{
     "223706": {
         "id": "223706",
         "name": "O Menino e o Mundo",
@@ -5434,9 +5194,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "16508": {
         "id": "16508",
         "name": "Doug: O Filme",
@@ -5477,9 +5235,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "140420": {
         "id": "140420",
         "name": "O Avião de Papel",
@@ -5519,9 +5275,7 @@ window.series37Data = {
             "Família",
             "Romance"
         ]
-    }
 },
-{
     "559562": {
         "id": "559562",
         "name": "Psycho-Pass: Pecadores do Sistema Caso 2 - Primeiro Guardião",
@@ -5582,9 +5336,7 @@ window.series37Data = {
             "Ficção científica",
             "Crime"
         ]
-    }
 },
-{
     "835739": {
         "id": "835739",
         "name": "Super Monstros: Contos de Monstros",
@@ -5613,9 +5365,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "522887": {
         "id": "522887",
         "name": "Voando Alto",
@@ -5653,9 +5403,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "1221396": {
         "id": "1221396",
         "name": "Self",
@@ -5688,9 +5436,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "1088812": {
         "id": "1088812",
         "name": "Bob Esponja Calça Quadrada apresenta: Zona das Marés",
@@ -5735,9 +5481,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "316322": {
         "id": "316322",
         "name": "Barbie: Super Princesa",
@@ -5777,9 +5521,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "212088": {
         "id": "212088",
         "name": "The Nuttiest Nutcracker",
@@ -5822,9 +5564,7 @@ window.series37Data = {
             "Música",
             "Aventura"
         ]
-    }
 },
-{
     "148608": {
         "id": "148608",
         "name": "Mate Lunático",
@@ -5860,9 +5600,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "680813": {
         "id": "680813",
         "name": "Flee: Nenhum Lugar Para Chamar de Lar",
@@ -5938,9 +5676,7 @@ window.series37Data = {
             "Documentário",
             "Animação"
         ]
-    }
 },
-{
     "641951": {
         "id": "641951",
         "name": "Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari",
@@ -5981,9 +5717,7 @@ window.series37Data = {
             "Ação",
             "Fantasia"
         ]
-    }
 },
-{
     "79707": {
         "id": "79707",
         "name": "Viagem para Agartha",
@@ -6025,9 +5759,7 @@ window.series37Data = {
             "Fantasia",
             "Família"
         ]
-    }
 },
-{
     "939336": {
         "id": "939336",
         "name": "O Maravilhoso Inverno do Mickey Mouse",
@@ -6062,9 +5794,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "605829": {
         "id": "605829",
         "name": "A Princesa Encantada - O Reino da Música",
@@ -6110,9 +5840,7 @@ window.series37Data = {
             "Fantasia",
             "Música"
         ]
-    }
 },
-{
     "150213": {
         "id": "150213",
         "name": "Pokémon o Filme: Kyurem contra a Espada da Justiça",
@@ -6180,9 +5908,7 @@ window.series37Data = {
             "Fantasia",
             "Ficção científica"
         ]
-    }
 },
-{
     "1252756": {
         "id": "1252756",
         "name": "A Place without Fear",
@@ -6208,9 +5934,7 @@ window.series37Data = {
             "Animação",
             "Terror"
         ]
-    }
 },
-{
     "13928": {
         "id": "13928",
         "name": "Knick Knack",
@@ -6241,9 +5965,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "567141": {
         "id": "567141",
         "name": "Super Monstros e a Estrela da Sorte",
@@ -6275,9 +5997,7 @@ window.series37Data = {
             "Animação",
             "Fantasia"
         ]
-    }
 },
-{
     "534313": {
         "id": "534313",
         "name": "Racetime: Hora da Corrida",
@@ -6319,9 +6039,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "876576": {
         "id": "876576",
         "name": "Go! Go! Cory Carson Chrissy Assume a Direção",
@@ -6351,9 +6069,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "831405": {
         "id": "831405",
         "name": "Injustiça: Deuses Entre Nós",
@@ -6395,9 +6111,7 @@ window.series37Data = {
             "Fantasia",
             "Ação"
         ]
-    }
 },
-{
     "8885": {
         "id": "8885",
         "name": "Valsa com Bashir",
@@ -6463,9 +6177,7 @@ window.series37Data = {
             "Guerra",
             "Documentário"
         ]
-    }
 },
-{
     "388045": {
         "id": "388045",
         "name": "La Leyenda del Chupacabras",
@@ -6508,9 +6220,7 @@ window.series37Data = {
             "Terror",
             "Família"
         ]
-    }
 },
-{
     "828947": {
         "id": "828947",
         "name": "Beavis e Butt-Head: Detonam o Universo",
@@ -6563,9 +6273,7 @@ window.series37Data = {
             "Comédia",
             "Ficção científica"
         ]
-    }
 },
-{
     "763539": {
         "id": "763539",
         "name": "As Aventuras de Gulliver",
@@ -6610,9 +6318,7 @@ window.series37Data = {
             "Aventura",
             "Fantasia"
         ]
-    }
 },
-{
     "965244": {
         "id": "965244",
         "name": "Ghost in the Shell: SAC_2045 – Guerra Sustentável",
@@ -6657,9 +6363,7 @@ window.series37Data = {
             "Ação",
             "Ficção científica"
         ]
-    }
 },
-{
     "747059": {
         "id": "747059",
         "name": "Toca",
@@ -6690,9 +6394,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "36218": {
         "id": "36218",
         "name": "Pokémon 6: Jirachi - Realizador de Desejos",
@@ -6764,9 +6466,7 @@ window.series37Data = {
             "Fantasia",
             "Ficção científica"
         ]
-    }
 },
-{
     "63686": {
         "id": "63686",
         "name": "Thor: O Filho de Asgard",
@@ -6811,9 +6511,7 @@ window.series37Data = {
             "Animação",
             "Ação"
         ]
-    }
 },
-{
     "509730": {
         "id": "509730",
         "name": "Corgi: Top Dog",
@@ -6857,9 +6555,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "992187": {
         "id": "992187",
         "name": "Chip e Potato: A Viagem de Férias",
@@ -6888,9 +6584,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "393559": {
         "id": "393559",
         "name": "Minha Vida de Abobrinha",
@@ -6960,9 +6654,7 @@ window.series37Data = {
             "Drama",
             "Família"
         ]
-    }
 },
-{
     "592687": {
         "id": "592687",
         "name": "Marvel Rising: Batalha de Bandas",
@@ -7001,9 +6693,7 @@ window.series37Data = {
             "Comédia",
             "Ficção científica"
         ]
-    }
 },
-{
     "76589": {
         "id": "76589",
         "name": "Liga da Justiça: A Legião do Mal",
@@ -7052,9 +6742,7 @@ window.series37Data = {
             "Animação",
             "Ficção científica"
         ]
-    }
 },
-{
     "439058": {
         "id": "439058",
         "name": "Ei Arnold! Na Selva: O Filme",
@@ -7101,9 +6789,7 @@ window.series37Data = {
             "Aventura",
             "Cinema TV"
         ]
-    }
 },
-{
     "595172": {
         "id": "595172",
         "name": "O Peregrino",
@@ -7143,9 +6829,7 @@ window.series37Data = {
             "Animação",
             "Aventura"
         ]
-    }
 },
-{
     "845322": {
         "id": "845322",
         "name": "Celebrando com Donald: Um Especial do Mickey Mouse",
@@ -7185,9 +6869,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "736069": {
         "id": "736069",
         "name": "Sociedade da Justiça: 2ª Guerra Mundial",
@@ -7228,9 +6910,7 @@ window.series37Data = {
             "Guerra",
             "Ficção científica"
         ]
-    }
 },
-{
     "817872": {
         "id": "817872",
         "name": "Motu Patlu in Hong Kong: Kung Fu Kings 3",
@@ -7255,9 +6935,7 @@ window.series37Data = {
             "Cinema TV",
             "Aventura"
         ]
-    }
 },
-{
     "21078": {
         "id": "21078",
         "name": "Tom & Jerry: Rumo à Marte",
@@ -7297,9 +6975,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "491633": {
         "id": "491633",
         "name": "Marvel Rising: Guerreiros Secretos",
@@ -7340,9 +7016,7 @@ window.series37Data = {
             "Cinema TV",
             "Aventura"
         ]
-    }
 },
-{
     "252665": {
         "id": "252665",
         "name": "Espíritos Mágicos: Natal em Nova York",
@@ -7383,9 +7057,7 @@ window.series37Data = {
             "Animação",
             "Fantasia"
         ]
-    }
 },
-{
     "230731": {
         "id": "230731",
         "name": "Louis & Luca e a Máquina de Neve",
@@ -7433,9 +7105,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "1047680": {
         "id": "1047680",
         "name": "Mighty Express: A Grande Corrida",
@@ -7476,9 +7146,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "54113": {
         "id": "54113",
         "name": "A Princesa Encantada II: O Segredo do Castelo",
@@ -7524,9 +7192,7 @@ window.series37Data = {
             "Animação",
             "Romance"
         ]
-    }
 },
-{
     "617209": {
         "id": "617209",
         "name": "Si Juki the Movie: Harta Pulau Monyet",
@@ -7565,9 +7231,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "595503": {
         "id": "595503",
         "name": "Super Monstros - Superamigos para Sempre",
@@ -7603,9 +7267,7 @@ window.series37Data = {
             "Fantasia",
             "Animação"
         ]
-    }
 },
-{
     "719088": {
         "id": "719088",
         "name": "Yes, No, or Maybe?",
@@ -7639,9 +7301,7 @@ window.series37Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "583209": {
         "id": "583209",
         "name": "Marvel Rising: Coração de Ferro",
@@ -7679,9 +7339,7 @@ window.series37Data = {
             "Ficção científica",
             "Ação"
         ]
-    }
 },
-{
     "580600": {
         "id": "580600",
         "name": "Astro Kid",
@@ -7787,9 +7445,7 @@ window.series37Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "852721": {
         "id": "852721",
         "name": "Nona",
@@ -7821,9 +7477,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "421456": {
         "id": "421456",
         "name": "Dilili em Paris",
@@ -7887,9 +7541,7 @@ window.series37Data = {
             "Animação",
             "Aventura"
         ]
-    }
 },
-{
     "13931": {
         "id": "13931",
         "name": "O Novo Carro do Mike",
@@ -7928,9 +7580,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "25831": {
         "id": "25831",
         "name": "O Príncipe e o Mendigo",
@@ -7971,9 +7621,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "258152": {
         "id": "258152",
         "name": "Central da Festa",
@@ -8010,9 +7658,7 @@ window.series37Data = {
             "Comédia",
             "Animação"
         ]
-    }
 },
-{
     "74654": {
         "id": "74654",
         "name": "Donald na Granja",
@@ -8044,9 +7690,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "14011": {
         "id": "14011",
         "name": "Liga da Justiça: A Nova Fronteira",
@@ -8088,9 +7732,7 @@ window.series37Data = {
             "Animação",
             "Ficção científica"
         ]
-    }
 },
-{
     "52795": {
         "id": "52795",
         "name": "Nobita e os Sete Magos",
@@ -8129,9 +7771,7 @@ window.series37Data = {
             "Ficção científica",
             "Fantasia"
         ]
-    }
 },
-{
     "576618": {
         "id": "576618",
         "name": "Free! Road to the World - The Dream",
@@ -8171,9 +7811,7 @@ window.series37Data = {
             "Animação",
             "Drama"
         ]
-    }
 },
-{
     "549644": {
         "id": "549644",
         "name": "Foodiverso: Uma Galáxia em Perigo",
@@ -8203,9 +7841,7 @@ window.series37Data = {
             "Família",
             "Ficção científica"
         ]
-    }
 },
-{
     "754433": {
         "id": "754433",
         "name": "Bobbleheads: O Filme",
@@ -8259,9 +7895,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "973608": {
         "id": "973608",
         "name": "Larva: O Pingente Mágico",
@@ -8289,9 +7923,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "13927": {
         "id": "13927",
         "name": "Brinquedo de Lata",
@@ -8323,9 +7955,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "49245": {
         "id": "49245",
         "name": "Yogi Bear's All-Star Comedy Christmas Caper",
@@ -8362,9 +7992,7 @@ window.series37Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "106555": {
         "id": "106555",
         "name": "Oswald e o Bonde",
@@ -8394,9 +8022,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "1140605": {
         "id": "1140605",
         "name": "Our Uniform",
@@ -8420,9 +8046,7 @@ window.series37Data = {
             "Animação",
             "Documentário"
         ]
-    }
 },
-{
     "789708": {
         "id": "789708",
         "name": "Hilda e o Rei da Montanha",
@@ -8461,9 +8085,7 @@ window.series37Data = {
             "Família",
             "Cinema TV"
         ]
-    }
 },
-{
     "736074": {
         "id": "736074",
         "name": "Batman: O Longo Dia das Bruxas - Parte 2",
@@ -8505,9 +8127,7 @@ window.series37Data = {
             "Ação",
             "Crime"
         ]
-    }
 },
-{
     "351981": {
         "id": "351981",
         "name": "A História de um Urso",
@@ -8537,9 +8157,7 @@ window.series37Data = {
             "Animação",
             "Drama"
         ]
-    }
 },
-{
     "141423": {
         "id": "141423",
         "name": "A Lenda de Mor'du",
@@ -8577,9 +8195,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "35114": {
         "id": "35114",
         "name": "Destino",
@@ -8616,9 +8232,7 @@ window.series37Data = {
             "Música",
             "Família"
         ]
-    }
 },
-{
     "447113": {
         "id": "447113",
         "name": "Monster High: Eletrizante",
@@ -8658,9 +8272,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "45162": {
         "id": "45162",
         "name": "Superman & Batman: Apocalipse",
@@ -8706,9 +8318,7 @@ window.series37Data = {
             "Aventura",
             "Animação"
         ]
-    }
 },
-{
     "22855": {
         "id": "22855",
         "name": "Superman & Batman: Inimigos Públicos",
@@ -8754,9 +8364,7 @@ window.series37Data = {
             "Ação",
             "Aventura"
         ]
-    }
 },
-{
     "824536": {
         "id": "824536",
         "name": "Motu Patlu in the Game of Zones",
@@ -8801,9 +8409,7 @@ window.series37Data = {
             "Aventura",
             "Ação"
         ]
-    }
 },
-{
     "28460": {
         "id": "28460",
         "name": "Sailor Moon Super S O Filme – O Buraco Negro dos Sonhos",
@@ -8842,9 +8448,7 @@ window.series37Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "506734": {
         "id": "506734",
         "name": "Lego DC Super Hero Girls: Escola de Super Vilãs",
@@ -8889,9 +8493,7 @@ window.series37Data = {
             "Ação",
             "Família"
         ]
-    }
 },
-{
     "739360": {
         "id": "739360",
         "name": "Farewell, My Dear Cramer: First Touch",
@@ -8928,9 +8530,7 @@ window.series37Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "738215": {
         "id": "738215",
         "name": "Barbie: Aventura da Princesa",
@@ -8975,9 +8575,7 @@ window.series37Data = {
             "Música",
             "Família"
         ]
-    }
 },
-{
     "514710": {
         "id": "514710",
         "name": "Heróis modestos: Cinema de Curtas da Ponoc",
@@ -9027,9 +8625,7 @@ window.series37Data = {
             "Aventura",
             "Drama"
         ]
-    }
 },
-{
     "62447": {
         "id": "62447",
         "name": "水のコトバ",
@@ -9063,9 +8659,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "14518": {
         "id": "14518",
         "name": "Pedro e o Lobo",
@@ -9116,9 +8710,7 @@ window.series37Data = {
             "Família",
             "Música"
         ]
-    }
 },
-{
     "579473": {
         "id": "579473",
         "name": "Vera Dia do Coração",
@@ -9156,9 +8748,7 @@ window.series37Data = {
             "Família",
             "Cinema TV"
         ]
-    }
 },
-{
     "140967": {
         "id": "140967",
         "name": "Mate, o Grande",
@@ -9195,9 +8785,7 @@ window.series37Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "615774": {
         "id": "615774",
         "name": "Scooby-Doo! De Volta à Ilha dos Zumbis",
@@ -9238,9 +8826,7 @@ window.series37Data = {
             "Mistério",
             "Terror"
         ]
-    }
 },
-{
     "564145": {
         "id": "564145",
         "name": "O Reino Gelado: A Terra dos Espelhos",
@@ -9287,9 +8873,7 @@ window.series37Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "518601": {
         "id": "518601",
         "name": "Animais em Apuros",
@@ -9327,9 +8911,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "579824": {
         "id": "579824",
         "name": "Cãestronautas: Aventura no Paraíso",
@@ -9369,9 +8951,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "411736": {
         "id": "411736",
         "name": "Batman: O Retorno da Dupla Dinâmica",
@@ -9419,9 +8999,7 @@ window.series37Data = {
             "Ficção científica",
             "Família"
         ]
-    }
 },
-{
     "200156": {
         "id": "200156",
         "name": "Poli II - O Fusquinha da Polícia",
@@ -9457,9 +9035,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "428227": {
         "id": "428227",
         "name": "Motu Patlu: King of Kings",
@@ -9502,9 +9078,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "322144": {
         "id": "322144",
         "name": "Killing Time at Home",
@@ -9527,9 +9101,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "570269": {
         "id": "570269",
         "name": "Trinity Seven: Biblioteca do Céu & Lorde Carmesim",
@@ -9567,9 +9139,7 @@ window.series37Data = {
             "Fantasia",
             "Comédia"
         ]
-    }
 },
-{
     "141614": {
         "id": "141614",
         "name": "Niko 2: Irmão Pequeno, Problema Grande",
@@ -9631,9 +9201,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "638220": {
         "id": "638220",
         "name": "É Doce!",
@@ -9683,9 +9251,7 @@ window.series37Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "55510": {
         "id": "55510",
         "name": "Um Dragão Por Perto",
@@ -9719,9 +9285,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "680041": {
         "id": "680041",
         "name": "Além do Céu",
@@ -9791,9 +9355,7 @@ window.series37Data = {
             "Fantasia",
             "Romance"
         ]
-    }
 },
-{
     "494656": {
         "id": "494656",
         "name": "La leyenda del Charro Negro",
@@ -9836,9 +9398,7 @@ window.series37Data = {
             "Família",
             "Terror"
         ]
-    }
 },
-{
     "812456": {
         "id": "812456",
         "name": "Barbie & Chelsea: O Aniversário Perdido",
@@ -9874,9 +9434,7 @@ window.series37Data = {
             "Animação",
             "Família"
         ]
-    }
 },
-{
     "122355": {
         "id": "122355",
         "name": "Galinha Pintadinha 3",
@@ -9908,9 +9466,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "354279": {
         "id": "354279",
         "name": "Encantado",
@@ -9966,9 +9522,7 @@ window.series37Data = {
             "Fantasia",
             "Música"
         ]
-    }
 },
-{
     "26730": {
         "id": "26730",
         "name": "1001 Histórias do Pernalonga",
@@ -10005,9 +9559,7 @@ window.series37Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "103269": {
         "id": "103269",
         "name": "Superman Contra a Elite",
@@ -10052,9 +9604,7 @@ window.series37Data = {
             "Animação",
             "Ação"
         ]
-    }
 },
-{
     "587070": {
         "id": "587070",
         "name": "Elcano e Magalhães: A Primeira Volta ao Mundo",
@@ -10093,9 +9643,7 @@ window.series37Data = {
             "Família",
             "História"
         ]
-    }
 },
-{
     "24787": {
         "id": "24787",
         "name": "Scooby-Doo! e os Irmãos Boo",
@@ -10134,9 +9682,7 @@ window.series37Data = {
             "Mistério",
             "Comédia"
         ]
-    }
 },
-{
     "477776": {
         "id": "477776",
         "name": "Code Geass: Lelouch Da Rebelião I — Iniciação",
@@ -10174,9 +9720,7 @@ window.series37Data = {
             "Drama",
             "Ação"
         ]
-    }
 },
-{
     "688900": {
         "id": "688900",
         "name": "Sol Levante",
@@ -10208,9 +9752,7 @@ window.series37Data = {
             "Ficção científica",
             "Fantasia"
         ]
-    }
 },
-{
     "514754": {
         "id": "514754",
         "name": "Bao",
@@ -10250,9 +9792,7 @@ window.series37Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "268092": {
         "id": "268092",
         "name": "Transformers Prime Beast Hunters: Predacons Rising",
@@ -10290,9 +9830,7 @@ window.series37Data = {
             "Ficção científica",
             "Cinema TV"
         ]
-    }
 },
-{
     "875628": {
         "id": "875628",
         "name": "Thomas & Seus Amigos: Corrida pela Taça Sodor",
@@ -10323,9 +9861,7 @@ window.series37Data = {
             "Família",
             "Cinema TV"
         ]
-    }
 },
-{
     "726940": {
         "id": "726940",
         "name": "Os Octonautas e As Cavernas de Sac Actun",
@@ -10365,9 +9901,7 @@ window.series37Data = {
             "Família",
             "Animação"
         ]
-    }
 },
-{
     "506640": {
         "id": "506640",
         "name": "Shopkins: Aventura Selvagem",
@@ -10390,9 +9924,7 @@ window.series37Data = {
         "genres": [
             "Animação"
         ]
-    }
 },
-{
     "16962": {
         "id": "16962",
         "name": "Barbie Fairytopia - A Magia do Arco-Íris",
@@ -10430,9 +9962,7 @@ window.series37Data = {
             "Fantasia",
             "Romance"
         ]
-    }
 },
-{
     "55095": {
         "id": "55095",
         "name": "Pato Donald e o Primo Gus",
@@ -10466,9 +9996,7 @@ window.series37Data = {
             "Animação",
             "Comédia"
         ]
-    }
 },
-{
     "413770": {
         "id": "413770",
         "name": "Ethel & Ernest",
@@ -10521,9 +10049,7 @@ window.series37Data = {
             "Drama",
             "Guerra"
         ]
-    }
 },
-{
     "50388": {
         "id": "50388",
         "name": "Rei dos Espinhos",
@@ -10584,9 +10110,7 @@ window.series37Data = {
             "Animação",
             "Ficção científica"
         ]
-    }
 },
-{
     "732670": {
         "id": "732670",
         "name": "LEGO Star Wars: Especial de Festas",
@@ -10633,9 +10157,7 @@ window.series37Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "74842": {
         "id": "74842",
         "name": "A Lenda do Dragão Milenar",
@@ -10672,9 +10194,7 @@ window.series37Data = {
             "Aventura",
             "Fantasia"
         ]
-    }
 },
-{
     "695556": {
         "id": "695556",
         "name": "Contra-Filé",
@@ -10713,6 +10233,4 @@ window.series37Data = {
             "Animação",
             "Terror"
         ]
-    }
-}
-};
+}};
