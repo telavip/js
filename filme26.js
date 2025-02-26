@@ -1,5 +1,4 @@
 window.series26Data = {
-{
     "501633": {
         "id": "501633",
         "name": "As Invisíveis",
@@ -51,9 +50,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "856245": {
         "id": "856245",
         "name": "Como Matar a Besta",
@@ -98,9 +95,7 @@ window.series26Data = {
             "Fantasia",
             "Thriller"
         ]
-    }
 },
-{
     "653606": {
         "id": "653606",
         "name": "O Último Turno",
@@ -144,9 +139,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "414597": {
         "id": "414597",
         "name": "Selvagem",
@@ -181,9 +174,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "356199": {
         "id": "356199",
         "name": "Amazing Grace",
@@ -235,9 +226,7 @@ window.series26Data = {
             "Música",
             "Documentário"
         ]
-    }
 },
-{
     "21297": {
         "id": "21297",
         "name": "Acorda Sid!",
@@ -274,9 +263,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "38805": {
         "id": "38805",
         "name": "Uma Voz nas Sombras",
@@ -316,9 +303,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "480007": {
         "id": "480007",
         "name": "O Terceiro Olho",
@@ -354,9 +339,7 @@ window.series26Data = {
             "Terror",
             "Thriller"
         ]
-    }
 },
-{
     "112090": {
         "id": "112090",
         "name": "Marcado",
@@ -396,9 +379,7 @@ window.series26Data = {
             "Ficção científica",
             "Thriller"
         ]
-    }
 },
-{
     "11137": {
         "id": "11137",
         "name": "Um Príncipe em Minha Vida",
@@ -450,9 +431,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "291157": {
         "id": "291157",
         "name": "Khoobsurat",
@@ -496,9 +475,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "413765": {
         "id": "413765",
         "name": "David Lynch: A Vida de um Artista",
@@ -541,9 +518,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "790523": {
         "id": "790523",
         "name": "Mais Que Demais Pra Mim",
@@ -587,9 +562,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "515818": {
         "id": "515818",
         "name": "Jornada da Vida",
@@ -633,9 +606,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "429174": {
         "id": "429174",
         "name": "Sem Amor",
@@ -690,9 +661,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "2165": {
         "id": "2165",
         "name": "Emboscada",
@@ -745,9 +714,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "752721": {
         "id": "752721",
         "name": "Quando o Demônio Chama",
@@ -788,9 +755,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "26578": {
         "id": "26578",
         "name": "A Traição do Falcão",
@@ -831,9 +796,7 @@ window.series26Data = {
             "Drama",
             "Crime"
         ]
-    }
 },
-{
     "300693": {
         "id": "300693",
         "name": "Conspiração e Poder",
@@ -872,9 +835,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "31121": {
         "id": "31121",
         "name": "Shampoo",
@@ -914,9 +875,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "364051": {
         "id": "364051",
         "name": "Agnus Dei",
@@ -976,9 +935,7 @@ window.series26Data = {
             "Drama",
             "História"
         ]
-    }
 },
-{
     "573650": {
         "id": "573650",
         "name": "Bangla",
@@ -1022,9 +979,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "121789": {
         "id": "121789",
         "name": "A Qualquer Preço",
@@ -1068,9 +1023,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "250551": {
         "id": "250551",
         "name": "Gunday",
@@ -1107,9 +1060,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "491473": {
         "id": "491473",
         "name": "Gloria Bell",
@@ -1153,9 +1104,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "528502": {
         "id": "528502",
         "name": "Aporia",
@@ -1199,9 +1148,7 @@ window.series26Data = {
             "Ficção científica",
             "Drama"
         ]
-    }
 },
-{
     "369300": {
         "id": "369300",
         "name": "Os Crimes de Limehouse",
@@ -1246,9 +1193,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "15084": {
         "id": "15084",
         "name": "Salaam Namaste",
@@ -1297,9 +1242,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "664297": {
         "id": "664297",
         "name": "Ela Morre Amanhã",
@@ -1334,9 +1277,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "413198": {
         "id": "413198",
         "name": "Legião de Heróis",
@@ -1384,9 +1325,7 @@ window.series26Data = {
             "Ação",
             "Thriller"
         ]
-    }
 },
-{
     "83869": {
         "id": "83869",
         "name": "Tão Descolada Quanto Eu",
@@ -1430,9 +1369,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "558574": {
         "id": "558574",
         "name": "Echo Boomers: A Geração Esquecida",
@@ -1489,9 +1426,7 @@ window.series26Data = {
             "Drama",
             "Ação"
         ]
-    }
 },
-{
     "869602": {
         "id": "869602",
         "name": "Onde Eu Moro",
@@ -1525,9 +1460,7 @@ window.series26Data = {
             "Documentário",
             "Drama"
         ]
-    }
 },
-{
     "587429": {
         "id": "587429",
         "name": "Dulce familia",
@@ -1570,9 +1503,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "397717": {
         "id": "397717",
         "name": "Barry",
@@ -1607,9 +1538,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "31651": {
         "id": "31651",
         "name": "Terra da Discórdia",
@@ -1652,9 +1581,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "511819": {
         "id": "511819",
         "name": "Memória",
@@ -1747,9 +1674,7 @@ window.series26Data = {
             "Ficção científica",
             "Mistério"
         ]
-    }
 },
-{
     "106845": {
         "id": "106845",
         "name": "Renascido das Trevas",
@@ -1793,9 +1718,7 @@ window.series26Data = {
             "Terror",
             "Ficção científica"
         ]
-    }
 },
-{
     "15198": {
         "id": "15198",
         "name": "Esquentando o Alasca",
@@ -1839,9 +1762,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "14938": {
         "id": "14938",
         "name": "Álibi",
@@ -1882,9 +1803,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "581475": {
         "id": "581475",
         "name": "Juanita",
@@ -1919,9 +1838,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "417489": {
         "id": "417489",
         "name": "Bon Cop, Bad Cop 2",
@@ -1962,9 +1879,7 @@ window.series26Data = {
             "Crime",
             "Comédia"
         ]
-    }
 },
-{
     "535692": {
         "id": "535692",
         "name": "Minha Obra-Prima",
@@ -2027,9 +1942,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "17660": {
         "id": "17660",
         "name": "Uma Cidade Que Surge (Dodge City)",
@@ -2064,9 +1977,7 @@ window.series26Data = {
         "genres": [
             "Faroeste"
         ]
-    }
 },
-{
     "347666": {
         "id": "347666",
         "name": "Precisamos Conversar",
@@ -2105,9 +2016,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "608804": {
         "id": "608804",
         "name": "A Menina que Matou os Pais",
@@ -2152,9 +2061,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "70666": {
         "id": "70666",
         "name": "VIPs",
@@ -2193,9 +2100,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "14195": {
         "id": "14195",
         "name": "Cecil Bem Demente",
@@ -2236,9 +2141,7 @@ window.series26Data = {
             "Comédia",
             "Ação"
         ]
-    }
 },
-{
     "256913": {
         "id": "256913",
         "name": "Um Reencontro",
@@ -2274,9 +2177,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "489994": {
         "id": "489994",
         "name": "Shirkers: O Filme Roubado",
@@ -2315,9 +2216,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "506464": {
         "id": "506464",
         "name": "O Doutrinador",
@@ -2363,9 +2262,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "1096804": {
         "id": "1096804",
         "name": "50 Km Por Hora",
@@ -2400,9 +2297,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "19366": {
         "id": "19366",
         "name": "Josie e as Gatinhas",
@@ -2454,9 +2349,7 @@ window.series26Data = {
             "Comédia",
             "Música"
         ]
-    }
 },
-{
     "18783": {
         "id": "18783",
         "name": "Sahara: Em Busca da Sobrevivência",
@@ -2492,9 +2385,7 @@ window.series26Data = {
             "Aventura",
             "Guerra"
         ]
-    }
 },
-{
     "241927": {
         "id": "241927",
         "name": "Mal Intencionados",
@@ -2533,9 +2424,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "810731": {
         "id": "810731",
         "name": "Por Que Você Me Matou?",
@@ -2567,9 +2456,7 @@ window.series26Data = {
             "Documentário",
             "Crime"
         ]
-    }
 },
-{
     "74349": {
         "id": "74349",
         "name": "O Dragão da Maldade contra o Santo Guerreiro",
@@ -2616,9 +2503,7 @@ window.series26Data = {
             "Faroeste",
             "História"
         ]
-    }
 },
-{
     "421447": {
         "id": "421447",
         "name": "A Escalada",
@@ -2667,9 +2552,7 @@ window.series26Data = {
             "Romance",
             "Aventura"
         ]
-    }
 },
-{
     "464825": {
         "id": "464825",
         "name": "O Confeiteiro",
@@ -2708,9 +2591,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "12621": {
         "id": "12621",
         "name": "Perdendo a Noção",
@@ -2740,9 +2621,7 @@ window.series26Data = {
             "Comédia",
             "Música"
         ]
-    }
 },
-{
     "474433": {
         "id": "474433",
         "name": "Cuba e o Cameraman",
@@ -2771,9 +2650,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "352695": {
         "id": "352695",
         "name": "A Despedida De Joshy",
@@ -2817,9 +2694,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "554022": {
         "id": "554022",
         "name": "Torpedo: U-235",
@@ -2892,9 +2767,7 @@ window.series26Data = {
             "Guerra",
             "Aventura"
         ]
-    }
 },
-{
     "493066": {
         "id": "493066",
         "name": "Maré Baixa",
@@ -2945,9 +2818,7 @@ window.series26Data = {
         "genres": [
             "Thriller"
         ]
-    }
 },
-{
     "837548": {
         "id": "837548",
         "name": "Juntos",
@@ -2997,9 +2868,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "346034": {
         "id": "346034",
         "name": "3 Idiotas",
@@ -3047,9 +2916,7 @@ window.series26Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "346650": {
         "id": "346650",
         "name": "Dia da Namorada",
@@ -3085,9 +2952,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "554371": {
         "id": "554371",
         "name": "Limbo",
@@ -3135,9 +3000,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "67884": {
         "id": "67884",
         "name": "Um Conto Chinês",
@@ -3196,9 +3059,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "324333": {
         "id": "324333",
         "name": "Cavalos Selvagens",
@@ -3239,9 +3100,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "43263": {
         "id": "43263",
         "name": "Jesse Stone: Sem Remorso",
@@ -3287,9 +3146,7 @@ window.series26Data = {
             "Crime",
             "Mistério"
         ]
-    }
 },
-{
     "706510": {
         "id": "706510",
         "name": "Desperados",
@@ -3333,9 +3190,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "355020": {
         "id": "355020",
         "name": "Winter on Fire: Ukraine's Fight for Freedom",
@@ -3398,9 +3253,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "13243": {
         "id": "13243",
         "name": "O Meu Nome é Bill",
@@ -3441,9 +3294,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "530076": {
         "id": "530076",
         "name": "Animais Corporativos",
@@ -3491,9 +3342,7 @@ window.series26Data = {
             "Comédia",
             "Terror"
         ]
-    }
 },
-{
     "328869": {
         "id": "328869",
         "name": "Sem Volta",
@@ -3532,9 +3381,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "960292": {
         "id": "960292",
         "name": "Meu Único Desejo",
@@ -3570,9 +3417,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "595723": {
         "id": "595723",
         "name": "Franco Escamilla: bienvenido al mundo",
@@ -3597,9 +3442,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "385736": {
         "id": "385736",
         "name": "Kicks: Defendendo o Que é Seu",
@@ -3656,9 +3499,7 @@ window.series26Data = {
             "Crime",
             "Ação"
         ]
-    }
 },
-{
     "487491": {
         "id": "487491",
         "name": "Fala Sério, Mãe!",
@@ -3706,9 +3547,7 @@ window.series26Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "200713": {
         "id": "200713",
         "name": "Uma Juíza Sem Juízo",
@@ -3763,9 +3602,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "807862": {
         "id": "807862",
         "name": "Peter von Kant",
@@ -3809,9 +3646,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "19116": {
         "id": "19116",
         "name": "Asylum: Não Estamos Sozinhos",
@@ -3850,9 +3685,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "317091": {
         "id": "317091",
         "name": "Criminosos de Novembro",
@@ -3914,9 +3747,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "695596": {
         "id": "695596",
         "name": "Resgate em Malibu: A Próxima Onda",
@@ -3945,9 +3776,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "59296": {
         "id": "59296",
         "name": "Amor, Felicidade ou Casamento",
@@ -3999,9 +3828,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "459670": {
         "id": "459670",
         "name": "Turma da Mônica: Laços",
@@ -4090,9 +3917,7 @@ window.series26Data = {
             "Aventura",
             "Comédia"
         ]
-    }
 },
-{
     "517596": {
         "id": "517596",
         "name": "Adam Sandler: 100% Fresh",
@@ -4130,9 +3955,7 @@ window.series26Data = {
             "Comédia",
             "Música"
         ]
-    }
 },
-{
     "558095": {
         "id": "558095",
         "name": "A Pura Verdade",
@@ -4168,9 +3991,7 @@ window.series26Data = {
             "Drama",
             "História"
         ]
-    }
 },
-{
     "1618": {
         "id": "1618",
         "name": "Ainda Muito Loucos",
@@ -4214,9 +4035,7 @@ window.series26Data = {
             "Comédia",
             "Música"
         ]
-    }
 },
-{
     "14822": {
         "id": "14822",
         "name": "Perigo na Montanha Enfeitiçada",
@@ -4254,9 +4073,7 @@ window.series26Data = {
             "Ficção científica",
             "Família"
         ]
-    }
 },
-{
     "470897": {
         "id": "470897",
         "name": "Estranho Mas Verdade",
@@ -4299,9 +4116,7 @@ window.series26Data = {
         "genres": [
             "Thriller"
         ]
-    }
 },
-{
     "695969": {
         "id": "695969",
         "name": "Beleza Avassaladora",
@@ -4347,9 +4162,7 @@ window.series26Data = {
             "Crime",
             "Romance"
         ]
-    }
 },
-{
     "1016446": {
         "id": "1016446",
         "name": "O Perfumista",
@@ -4391,9 +4204,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "215379": {
         "id": "215379",
         "name": "Os Mais Jovens",
@@ -4443,9 +4254,7 @@ window.series26Data = {
             "Drama",
             "Ficção científica"
         ]
-    }
 },
-{
     "74534": {
         "id": "74534",
         "name": "O Exótico Hotel Marigold",
@@ -4489,9 +4298,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "439961": {
         "id": "439961",
         "name": "O Mais Simples É Complicar Tudo",
@@ -4526,9 +4333,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "97512": {
         "id": "97512",
         "name": "Entrega de Risco",
@@ -4564,9 +4369,7 @@ window.series26Data = {
             "Ação",
             "Crime"
         ]
-    }
 },
-{
     "600335": {
         "id": "600335",
         "name": "Kardec",
@@ -4602,9 +4405,7 @@ window.series26Data = {
             "Drama",
             "História"
         ]
-    }
 },
-{
     "451646": {
         "id": "451646",
         "name": "Meu Filho",
@@ -4641,9 +4442,7 @@ window.series26Data = {
             "Thriller",
             "Mistério"
         ]
-    }
 },
-{
     "8842": {
         "id": "8842",
         "name": "Contra Tudo e Contra Todos",
@@ -4695,9 +4494,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "540291": {
         "id": "540291",
         "name": "A Maldição de Isabelle",
@@ -4744,9 +4541,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "375098": {
         "id": "375098",
         "name": "Esta é a Sua Morte: O Show",
@@ -4789,9 +4584,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "673737": {
         "id": "673737",
         "name": "O Natal de James & Bob",
@@ -4847,9 +4640,7 @@ window.series26Data = {
             "Família",
             "Drama"
         ]
-    }
 },
-{
     "445605": {
         "id": "445605",
         "name": "Slam",
@@ -4888,9 +4679,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "388862": {
         "id": "388862",
         "name": "Contagem Regressiva",
@@ -4928,9 +4717,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "12559": {
         "id": "12559",
         "name": "Enlouquecendo meu Guarda-Costas",
@@ -4970,9 +4757,7 @@ window.series26Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "453270": {
         "id": "453270",
         "name": "Ciganos da Ciambra",
@@ -5040,9 +4825,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "339419": {
         "id": "339419",
         "name": "Loving: Uma História de Amor",
@@ -5098,9 +4881,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "974521": {
         "id": "974521",
         "name": "Sem Ursos",
@@ -5135,9 +4916,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "513574": {
         "id": "513574",
         "name": "Batalhas",
@@ -5190,9 +4969,7 @@ window.series26Data = {
             "Romance",
             "Música"
         ]
-    }
 },
-{
     "484436": {
         "id": "484436",
         "name": "Ánimas",
@@ -5241,9 +5018,7 @@ window.series26Data = {
             "Drama",
             "Terror"
         ]
-    }
 },
-{
     "938030": {
         "id": "938030",
         "name": "Trip, O Elfo Construtor",
@@ -5285,9 +5060,7 @@ window.series26Data = {
             "Fantasia",
             "Aventura"
         ]
-    }
 },
-{
     "512019": {
         "id": "512019",
         "name": "Gente que Vai e Volta",
@@ -5331,9 +5104,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "337674": {
         "id": "337674",
         "name": "Elle",
@@ -5385,9 +5156,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "669363": {
         "id": "669363",
         "name": "O Homem que Vendeu Sua Pele",
@@ -5442,9 +5211,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "438146": {
         "id": "438146",
         "name": "Pássaros de Verão",
@@ -5508,9 +5275,7 @@ window.series26Data = {
             "Drama",
             "Crime"
         ]
-    }
 },
-{
     "50794": {
         "id": "50794",
         "name": "Mano a Mana: O Filme",
@@ -5551,9 +5316,7 @@ window.series26Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "529646": {
         "id": "529646",
         "name": "Missão Solar",
@@ -5598,9 +5361,7 @@ window.series26Data = {
             "Aventura",
             "Ficção científica"
         ]
-    }
 },
-{
     "467106": {
         "id": "467106",
         "name": "Bareilly Ki Barfi",
@@ -5640,9 +5401,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "451751": {
         "id": "451751",
         "name": "American Satan",
@@ -5687,9 +5446,7 @@ window.series26Data = {
             "Drama",
             "Música"
         ]
-    }
 },
-{
     "36801": {
         "id": "36801",
         "name": "Caindo no Mundo",
@@ -5725,9 +5482,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "487004": {
         "id": "487004",
         "name": "E Agora? Invadiram a Minha Casa",
@@ -5770,9 +5525,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "319076": {
         "id": "319076",
         "name": "A verdade sobre Marlon Brando",
@@ -5811,9 +5564,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "13380": {
         "id": "13380",
         "name": "O Natal Mágico",
@@ -5857,9 +5608,7 @@ window.series26Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "83761": {
         "id": "83761",
         "name": "E a Vida Continua",
@@ -5894,9 +5643,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "554311": {
         "id": "554311",
         "name": "A Criança Zombie",
@@ -5945,9 +5692,7 @@ window.series26Data = {
             "Terror",
             "Drama"
         ]
-    }
 },
-{
     "381707": {
         "id": "381707",
         "name": "Nossos Amantes",
@@ -5987,9 +5732,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "20096": {
         "id": "20096",
         "name": "A Mulher do Açougueiro",
@@ -6026,9 +5769,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "43935": {
         "id": "43935",
         "name": "Dylan Dog e as Criaturas da Noite",
@@ -6077,9 +5818,7 @@ window.series26Data = {
             "Thriller",
             "Fantasia"
         ]
-    }
 },
-{
     "423093": {
         "id": "423093",
         "name": "7 Anos",
@@ -6118,9 +5857,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "10373": {
         "id": "10373",
         "name": "Quadrophenia",
@@ -6160,9 +5897,7 @@ window.series26Data = {
             "Drama",
             "Música"
         ]
-    }
 },
-{
     "973164": {
         "id": "973164",
         "name": "Ricky Gervais: SuperNatureza",
@@ -6188,9 +5923,7 @@ window.series26Data = {
             "Comédia",
             "Documentário"
         ]
-    }
 },
-{
     "298583": {
         "id": "298583",
         "name": "Todos os Caminhos Levam a Roma",
@@ -6234,9 +5967,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "418726": {
         "id": "418726",
         "name": "Algo de Novo",
@@ -6279,9 +6010,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "7975": {
         "id": "7975",
         "name": "Contratei um Matador Profissional",
@@ -6347,9 +6076,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "441": {
         "id": "441",
         "name": "A Natureza Quase Humana",
@@ -6401,9 +6128,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "999205": {
         "id": "999205",
         "name": "Ameaça a Bordo",
@@ -6464,9 +6189,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "61717": {
         "id": "61717",
         "name": "Wendy Wu: A Garota Kung-Fu",
@@ -6513,9 +6236,7 @@ window.series26Data = {
             "Cinema TV",
             "Comédia"
         ]
-    }
 },
-{
     "430128": {
         "id": "430128",
         "name": "Internet - O Filme",
@@ -6554,9 +6275,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "628241": {
         "id": "628241",
         "name": "Ala Vaikunthapurramloo",
@@ -6597,9 +6316,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "570292": {
         "id": "570292",
         "name": "Fábrica de Sonhos - Ouse Sonhar",
@@ -6660,9 +6377,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "37481": {
         "id": "37481",
         "name": "Quadrilha Maldita",
@@ -6701,9 +6416,7 @@ window.series26Data = {
         "genres": [
             "Faroeste"
         ]
-    }
 },
-{
     "192133": {
         "id": "192133",
         "name": "Jimi: Tudo a Meu Favor",
@@ -6747,9 +6460,7 @@ window.series26Data = {
             "Drama",
             "Música"
         ]
-    }
 },
-{
     "364067": {
         "id": "364067",
         "name": "A Very Murray Christmas",
@@ -6794,9 +6505,7 @@ window.series26Data = {
             "Música",
             "Cinema TV"
         ]
-    }
 },
-{
     "8220": {
         "id": "8220",
         "name": "Maus Hábitos",
@@ -6832,9 +6541,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "440630": {
         "id": "440630",
         "name": "Ice: Quando o Amor Transforma",
@@ -6879,9 +6586,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "290729": {
         "id": "290729",
         "name": "O Atirador: Legado",
@@ -6925,9 +6630,7 @@ window.series26Data = {
             "Thriller",
             "Ação"
         ]
-    }
 },
-{
     "10480": {
         "id": "10480",
         "name": "A Enfermeira Betty",
@@ -6988,9 +6691,7 @@ window.series26Data = {
             "Crime",
             "Thriller"
         ]
-    }
 },
-{
     "977326": {
         "id": "977326",
         "name": "Elton John: Never Too Late",
@@ -7034,9 +6735,7 @@ window.series26Data = {
             "Documentário",
             "Música"
         ]
-    }
 },
-{
     "650272": {
         "id": "650272",
         "name": "Acima da Lei",
@@ -7079,9 +6778,7 @@ window.series26Data = {
         "genres": [
             "Ação"
         ]
-    }
 },
-{
     "433244": {
         "id": "433244",
         "name": "Clinical",
@@ -7117,9 +6814,7 @@ window.series26Data = {
             "Thriller",
             "Terror"
         ]
-    }
 },
-{
     "38191": {
         "id": "38191",
         "name": "Na Trilha do Sol",
@@ -7179,9 +6874,7 @@ window.series26Data = {
             "Drama",
             "Crime"
         ]
-    }
 },
-{
     "58443": {
         "id": "58443",
         "name": "A Onda dos Sonhos 2",
@@ -7233,9 +6926,7 @@ window.series26Data = {
             "Aventura",
             "Drama"
         ]
-    }
 },
-{
     "28212": {
         "id": "28212",
         "name": "A Vida da Boêmia",
@@ -7288,9 +6979,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "630916": {
         "id": "630916",
         "name": "Natal no Hotel Plaza",
@@ -7326,9 +7015,7 @@ window.series26Data = {
             "Romance",
             "Cinema TV"
         ]
-    }
 },
-{
     "267463": {
         "id": "267463",
         "name": "O Plano da Década",
@@ -7364,9 +7051,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "437036": {
         "id": "437036",
         "name": "O Autor",
@@ -7421,9 +7106,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "493899": {
         "id": "493899",
         "name": "Até Logo, Meu Filho",
@@ -7462,9 +7145,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "10725": {
         "id": "10725",
         "name": "Lobos",
@@ -7504,9 +7185,7 @@ window.series26Data = {
             "Terror",
             "Thriller"
         ]
-    }
 },
-{
     "335970": {
         "id": "335970",
         "name": "Joe Sujo 2",
@@ -7553,9 +7232,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "463858": {
         "id": "463858",
         "name": "Primeiro Ano",
@@ -7591,9 +7268,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "36727": {
         "id": "36727",
         "name": "La Maison du bonheur",
@@ -7628,9 +7303,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "840427": {
         "id": "840427",
         "name": "O Pai que Move Montanhas",
@@ -7666,9 +7339,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "11475": {
         "id": "11475",
         "name": "Cowboys de Leningrado Vão para a América",
@@ -7720,9 +7391,7 @@ window.series26Data = {
             "Comédia",
             "Música"
         ]
-    }
 },
-{
     "286817": {
         "id": "286817",
         "name": "Anatomia de uma Cena de Amor",
@@ -7757,9 +7426,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "24653": {
         "id": "24653",
         "name": "As Consequências do Amor",
@@ -7803,9 +7470,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "1034587": {
         "id": "1034587",
         "name": "Amigos",
@@ -7841,9 +7506,7 @@ window.series26Data = {
             "Ação",
             "Thriller"
         ]
-    }
 },
-{
     "522964": {
         "id": "522964",
         "name": "Prisão Estelar",
@@ -7888,9 +7551,7 @@ window.series26Data = {
             "Ficção científica",
             "Thriller"
         ]
-    }
 },
-{
     "758879": {
         "id": "758879",
         "name": "Um Castelo para o Natal",
@@ -7930,9 +7591,7 @@ window.series26Data = {
             "Comédia",
             "Aventura"
         ]
-    }
 },
-{
     "58770": {
         "id": "58770",
         "name": "O Efeito Dominó",
@@ -7976,9 +7635,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "41579": {
         "id": "41579",
         "name": "Acertando as Contas com Papai",
@@ -8015,9 +7672,7 @@ window.series26Data = {
             "Crime",
             "Família"
         ]
-    }
 },
-{
     "127501": {
         "id": "127501",
         "name": "Barfi!",
@@ -8058,9 +7713,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "15977": {
         "id": "15977",
         "name": "Dev D",
@@ -8105,9 +7758,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "17880": {
         "id": "17880",
         "name": "Meu Melhor Amigo",
@@ -8144,9 +7795,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "105768": {
         "id": "105768",
         "name": "Flicka 3",
@@ -8186,9 +7835,7 @@ window.series26Data = {
             "Drama",
             "Família"
         ]
-    }
 },
-{
     "346658": {
         "id": "346658",
         "name": "O Juramento",
@@ -8229,9 +7876,7 @@ window.series26Data = {
             "Crime",
             "Thriller"
         ]
-    }
 },
-{
     "422715": {
         "id": "422715",
         "name": "A Noiva",
@@ -8268,9 +7913,7 @@ window.series26Data = {
             "Terror",
             "Thriller"
         ]
-    }
 },
-{
     "9582": {
         "id": "9582",
         "name": "Louco por Elas",
@@ -8310,9 +7953,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "435841": {
         "id": "435841",
         "name": "Steel Rain",
@@ -8356,9 +7997,7 @@ window.series26Data = {
             "Ação",
             "Thriller"
         ]
-    }
 },
-{
     "793285": {
         "id": "793285",
         "name": "Deus Não Esta Morto: O Próximo Capítulo",
@@ -8397,9 +8036,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "375572": {
         "id": "375572",
         "name": "Veloz Como o Vento",
@@ -8447,9 +8084,7 @@ window.series26Data = {
             "Drama",
             "Ação"
         ]
-    }
 },
-{
     "413837": {
         "id": "413837",
         "name": "A Garota Ocidental - Entre o Coração e a Tradição",
@@ -8492,9 +8127,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "35227": {
         "id": "35227",
         "name": "Esposas Ingênuas",
@@ -8530,9 +8163,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "660521": {
         "id": "660521",
         "name": "O Mercenário",
@@ -8567,9 +8198,7 @@ window.series26Data = {
         "genres": [
             "Ação"
         ]
-    }
 },
-{
     "361263": {
         "id": "361263",
         "name": "Jesse Stone: Perdido no Paraíso",
@@ -8607,9 +8236,7 @@ window.series26Data = {
             "Crime",
             "Mistério"
         ]
-    }
 },
-{
     "2204": {
         "id": "2204",
         "name": "Alice nas Cidades",
@@ -8648,9 +8275,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "425751": {
         "id": "425751",
         "name": "O Heroi",
@@ -8693,9 +8318,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "972313": {
         "id": "972313",
         "name": "Roubo Entre Ladrões",
@@ -8733,9 +8356,7 @@ window.series26Data = {
             "Thriller",
             "Crime"
         ]
-    }
 },
-{
     "711475": {
         "id": "711475",
         "name": "A Vida é Agora",
@@ -8791,9 +8412,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "429977": {
         "id": "429977",
         "name": "Confusão de Elite",
@@ -8829,9 +8448,7 @@ window.series26Data = {
             "Comédia",
             "Ação"
         ]
-    }
 },
-{
     "330298": {
         "id": "330298",
         "name": "Uma Dama de Óculos Escuros Com uma Arma no Carro",
@@ -8873,9 +8490,7 @@ window.series26Data = {
             "Crime",
             "Mistério"
         ]
-    }
 },
-{
     "429107": {
         "id": "429107",
         "name": "Jantar com Beatriz",
@@ -8923,9 +8538,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "393945": {
         "id": "393945",
         "name": "150 Miligramas",
@@ -8964,9 +8577,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "9786": {
         "id": "9786",
         "name": "Uma Escola de Arte Muito Louca",
@@ -9002,9 +8613,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "51588": {
         "id": "51588",
         "name": "A Melhor Festa do Ano",
@@ -9044,9 +8653,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "532635": {
         "id": "532635",
         "name": "A Lenda de Golem",
@@ -9082,9 +8689,7 @@ window.series26Data = {
             "Terror",
             "Drama"
         ]
-    }
 },
-{
     "776909": {
         "id": "776909",
         "name": "Fomos Canções",
@@ -9114,9 +8719,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "358881": {
         "id": "358881",
         "name": "Os Caminhos do Terror",
@@ -9156,9 +8759,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "500535": {
         "id": "500535",
         "name": "7 Minutos na Escuridão",
@@ -9193,9 +8794,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "1019404": {
         "id": "1019404",
         "name": "A Vespa",
@@ -9251,9 +8850,7 @@ window.series26Data = {
             "Thriller",
             "Drama"
         ]
-    }
 },
-{
     "158426": {
         "id": "158426",
         "name": "Encruzilhada",
@@ -9298,9 +8895,7 @@ window.series26Data = {
             "Thriller",
             "Romance"
         ]
-    }
 },
-{
     "441183": {
         "id": "441183",
         "name": "A Luz no Fim do Mundo",
@@ -9340,9 +8935,7 @@ window.series26Data = {
             "Ficção científica",
             "Drama"
         ]
-    }
 },
-{
     "2042": {
         "id": "2042",
         "name": "Savior: A Última Guerra",
@@ -9379,9 +8972,7 @@ window.series26Data = {
             "Drama",
             "Guerra"
         ]
-    }
 },
-{
     "14633": {
         "id": "14633",
         "name": "Dez",
@@ -9420,9 +9011,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "101519": {
         "id": "101519",
         "name": "Um Fantástico Medo de Tudo",
@@ -9471,9 +9060,7 @@ window.series26Data = {
             "Thriller",
             "Terror"
         ]
-    }
 },
-{
     "17496": {
         "id": "17496",
         "name": "Cowboy do Asfalto",
@@ -9510,9 +9097,7 @@ window.series26Data = {
             "Romance",
             "Faroeste"
         ]
-    }
 },
-{
     "9515": {
         "id": "9515",
         "name": "O Matador",
@@ -9579,9 +9164,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "11599": {
         "id": "11599",
         "name": "Os Amantes do Rio",
@@ -9621,9 +9204,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "763873": {
         "id": "763873",
         "name": "Under Wraps: Uma Múmia no Halloween",
@@ -9668,9 +9249,7 @@ window.series26Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "340611": {
         "id": "340611",
         "name": "Indignação",
@@ -9710,9 +9289,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "32612": {
         "id": "32612",
         "name": "O Viajante",
@@ -9756,9 +9333,7 @@ window.series26Data = {
             "Terror",
             "Thriller"
         ]
-    }
 },
-{
     "301629": {
         "id": "301629",
         "name": "Addicted to Fresno",
@@ -9809,9 +9384,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "28333": {
         "id": "28333",
         "name": "O Terror das Mulheres",
@@ -9846,9 +9419,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "555457": {
         "id": "555457",
         "name": "Faça Um Desejo!",
@@ -9892,9 +9463,7 @@ window.series26Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "34764": {
         "id": "34764",
         "name": "Karthik Calling Karthik",
@@ -9934,9 +9503,7 @@ window.series26Data = {
             "Romance",
             "Thriller"
         ]
-    }
 },
-{
     "821489": {
         "id": "821489",
         "name": "Meus Amigos Me Odeiam",
@@ -9973,9 +9540,7 @@ window.series26Data = {
             "Thriller",
             "Terror"
         ]
-    }
 },
-{
     "9442": {
         "id": "9442",
         "name": "Cliente Morto Não Paga",
@@ -10016,9 +9581,7 @@ window.series26Data = {
             "Mistério",
             "Crime"
         ]
-    }
 },
-{
     "159774": {
         "id": "159774",
         "name": "A Gangue Zip Zap",
@@ -10059,9 +9622,7 @@ window.series26Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "325189": {
         "id": "325189",
         "name": "Teen Beach 2",
@@ -10099,9 +9660,7 @@ window.series26Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "15676": {
         "id": "15676",
         "name": "O Filho do Prêmio Nobel",
@@ -10138,9 +9697,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "420950": {
         "id": "420950",
         "name": "Seuls",
@@ -10202,9 +9759,7 @@ window.series26Data = {
             "Terror",
             "Família"
         ]
-    }
 },
-{
     "1379": {
         "id": "1379",
         "name": "Luzes na Escuridão",
@@ -10272,9 +9827,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "8841": {
         "id": "8841",
         "name": "Entre os Muros da Escola",
@@ -10313,9 +9866,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "615177": {
         "id": "615177",
         "name": "Coffee & Kareem",
@@ -10356,9 +9907,7 @@ window.series26Data = {
             "Ação",
             "Crime"
         ]
-    }
 },
-{
     "377151": {
         "id": "377151",
         "name": "Fogo no Mar",
@@ -10417,9 +9966,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "41378": {
         "id": "41378",
         "name": "O Super Dragão Chinês",
@@ -10455,9 +10002,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "365961": {
         "id": "365961",
         "name": "Encolhi a Professora",
@@ -10502,9 +10047,7 @@ window.series26Data = {
             "Família",
             "Fantasia"
         ]
-    }
 },
-{
     "322518": {
         "id": "322518",
         "name": "A Casa do Medo",
@@ -10543,9 +10086,7 @@ window.series26Data = {
         "genres": [
             "Thriller"
         ]
-    }
 },
-{
     "657811": {
         "id": "657811",
         "name": "Lassie de Volta a Casa",
@@ -10589,9 +10130,7 @@ window.series26Data = {
             "Aventura",
             "Família"
         ]
-    }
 },
-{
     "543504": {
         "id": "543504",
         "name": "Detetives em Guerra",
@@ -10629,9 +10168,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "80038": {
         "id": "80038",
         "name": "Solteiros com Filhos",
@@ -10676,9 +10213,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "388202": {
         "id": "388202",
         "name": "Arsenal",
@@ -10738,9 +10273,7 @@ window.series26Data = {
             "Thriller",
             "Crime"
         ]
-    }
 },
-{
     "429070": {
         "id": "429070",
         "name": "Os Fantasmas de Ismael",
@@ -10778,9 +10311,7 @@ window.series26Data = {
             "Romance",
             "Thriller"
         ]
-    }
 },
-{
     "517320": {
         "id": "517320",
         "name": "O Pacto",
@@ -10833,9 +10364,7 @@ window.series26Data = {
             "Thriller",
             "Drama"
         ]
-    }
 },
-{
     "300706": {
         "id": "300706",
         "name": "Como Se Livrar da Esposa",
@@ -10882,9 +10411,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "18741": {
         "id": "18741",
         "name": "A Saga do Dragão",
@@ -10920,9 +10447,7 @@ window.series26Data = {
             "Ação",
             "Comédia"
         ]
-    }
 },
-{
     "714339": {
         "id": "714339",
         "name": "Na Margem",
@@ -10985,9 +10510,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "747779": {
         "id": "747779",
         "name": "Uma Bela Manhã",
@@ -11047,9 +10570,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "4629": {
         "id": "4629",
         "name": "Um Verão para Toda Vida",
@@ -11089,9 +10610,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "47760": {
         "id": "47760",
         "name": "Inquietos",
@@ -11135,9 +10654,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "124": {
         "id": "124",
         "name": "Sem Fim",
@@ -11172,9 +10689,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "1014779": {
         "id": "1014779",
         "name": "O Caso Figo: A Transferência que Mudou o Futebol",
@@ -11209,9 +10724,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "26719": {
         "id": "26719",
         "name": "Jogo de Emoções",
@@ -11248,9 +10761,7 @@ window.series26Data = {
             "Thriller",
             "Drama"
         ]
-    }
 },
-{
     "12488": {
         "id": "12488",
         "name": "Até Que a Morte Nos Separe",
@@ -11289,9 +10800,7 @@ window.series26Data = {
         "genres": [
             "Thriller"
         ]
-    }
 },
-{
     "277230": {
         "id": "277230",
         "name": "A Lista dos Meus Desejos",
@@ -11343,9 +10852,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "10994": {
         "id": "10994",
         "name": "Deixe-me Viver",
@@ -11396,9 +10903,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "60950": {
         "id": "60950",
         "name": "Gritos do Além",
@@ -11438,9 +10943,7 @@ window.series26Data = {
             "Terror",
             "Cinema TV"
         ]
-    }
 },
-{
     "7510": {
         "id": "7510",
         "name": "Correndo com Tesouras",
@@ -11480,9 +10983,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "1034947": {
         "id": "1034947",
         "name": "Street Flow 2",
@@ -11521,9 +11022,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "31357": {
         "id": "31357",
         "name": "Falando de Amor",
@@ -11560,9 +11059,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "414018": {
         "id": "414018",
         "name": "Sob o Sol do Oeste",
@@ -11599,9 +11096,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "376228": {
         "id": "376228",
         "name": "Audrie & Daisy",
@@ -11639,9 +11134,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "259956": {
         "id": "259956",
         "name": "Amigos Para a Vida",
@@ -11681,9 +11174,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "362703": {
         "id": "362703",
         "name": "Diablo",
@@ -11725,9 +11216,7 @@ window.series26Data = {
             "Thriller",
             "Faroeste"
         ]
-    }
 },
-{
     "320736": {
         "id": "320736",
         "name": "Desajustados",
@@ -11762,9 +11251,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "773": {
         "id": "773",
         "name": "Pequena Miss Sunshine",
@@ -11804,9 +11291,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "42390": {
         "id": "42390",
         "name": "Com os Braços Abertos",
@@ -11841,9 +11326,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "1020969": {
         "id": "1020969",
         "name": "Um Natal com Teddy",
@@ -11880,9 +11363,7 @@ window.series26Data = {
             "Aventura",
             "Fantasia"
         ]
-    }
 },
-{
     "353433": {
         "id": "353433",
         "name": "Urge: Droga Mortal",
@@ -11934,9 +11415,7 @@ window.series26Data = {
             "Thriller",
             "Mistério"
         ]
-    }
 },
-{
     "40081": {
         "id": "40081",
         "name": "Combate Mortal",
@@ -11972,9 +11451,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "874948": {
         "id": "874948",
         "name": "Dano Colateral",
@@ -12010,9 +11487,7 @@ window.series26Data = {
             "Thriller",
             "Drama"
         ]
-    }
 },
-{
     "586586": {
         "id": "586586",
         "name": "Bliss",
@@ -12047,9 +11522,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "210047": {
         "id": "210047",
         "name": "Dinheiro Sujo",
@@ -12102,9 +11575,7 @@ window.series26Data = {
             "Drama",
             "Thriller"
         ]
-    }
 },
-{
     "256561": {
         "id": "256561",
         "name": "Free to Play",
@@ -12137,9 +11608,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "376530": {
         "id": "376530",
         "name": "Uma Caçadora e sua Águia",
@@ -12192,9 +11661,7 @@ window.series26Data = {
             "Documentário",
             "Aventura"
         ]
-    }
 },
-{
     "674610": {
         "id": "674610",
         "name": "The Loud House: Um Natal Muito Loud",
@@ -12230,9 +11697,7 @@ window.series26Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "425298": {
         "id": "425298",
         "name": "Guerreiro da Escuridão",
@@ -12269,9 +11734,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "20735": {
         "id": "20735",
         "name": "O Diabólico Agente D.C.",
@@ -12307,9 +11770,7 @@ window.series26Data = {
             "Família",
             "Comédia"
         ]
-    }
 },
-{
     "1139819": {
         "id": "1139819",
         "name": "Um Clímax Entre Nós",
@@ -12345,9 +11806,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "298721": {
         "id": "298721",
         "name": "Cemitério do Esplendor",
@@ -12427,9 +11886,7 @@ window.series26Data = {
             "Drama",
             "Fantasia"
         ]
-    }
 },
-{
     "30618": {
         "id": "30618",
         "name": "Uma Cidade Sem Lei",
@@ -12478,9 +11935,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "975714": {
         "id": "975714",
         "name": "Colisão",
@@ -12533,9 +11988,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "31306": {
         "id": "31306",
         "name": "Loucos do Alabama",
@@ -12579,9 +12032,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "513399": {
         "id": "513399",
         "name": "Muito Louca",
@@ -12652,9 +12103,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "264529": {
         "id": "264529",
         "name": "Las oscuras primaveras",
@@ -12697,9 +12146,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "319340": {
         "id": "319340",
         "name": "Beijei uma Garota",
@@ -12734,9 +12181,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "360029": {
         "id": "360029",
         "name": "Visita ao Inferno",
@@ -12779,9 +12224,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "79465": {
         "id": "79465",
         "name": "O Trapaceiro",
@@ -12826,9 +12269,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "22784": {
         "id": "22784",
         "name": "Sexy e Marginal",
@@ -12864,9 +12305,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "364137": {
         "id": "364137",
         "name": "Nós ou Nada em Paris",
@@ -12914,9 +12353,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "347881": {
         "id": "347881",
         "name": "Um Fim de Semana Diferente",
@@ -12960,9 +12397,7 @@ window.series26Data = {
             "Drama",
             "Comédia"
         ]
-    }
 },
-{
     "452000": {
         "id": "452000",
         "name": "Western",
@@ -13017,9 +12452,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "449575": {
         "id": "449575",
         "name": "Além do Universo",
@@ -13058,9 +12491,7 @@ window.series26Data = {
         "genres": [
             "Ficção científica"
         ]
-    }
 },
-{
     "2621": {
         "id": "2621",
         "name": "Feitiço do Coração",
@@ -13100,9 +12531,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "33788": {
         "id": "33788",
         "name": "Sombras de um Desejo",
@@ -13150,9 +12579,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "746419": {
         "id": "746419",
         "name": "O Pai da Noiva",
@@ -13193,9 +12620,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "245700": {
         "id": "245700",
         "name": "Sr. Turner",
@@ -13263,9 +12688,7 @@ window.series26Data = {
             "História",
             "Drama"
         ]
-    }
 },
-{
     "467467": {
         "id": "467467",
         "name": "Amor Entre os Juncos",
@@ -13300,9 +12723,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "997265": {
         "id": "997265",
         "name": "Regra 34",
@@ -13345,9 +12766,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "12456": {
         "id": "12456",
         "name": "As Cinco Obstruções",
@@ -13394,9 +12813,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "22492": {
         "id": "22492",
         "name": "A Todo Volume",
@@ -13431,9 +12848,7 @@ window.series26Data = {
             "Documentário",
             "Música"
         ]
-    }
 },
-{
     "25462": {
         "id": "25462",
         "name": "Esse Jogo É Para Dois",
@@ -13473,9 +12888,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "1996": {
         "id": "1996",
         "name": "Lara Croft: Tomb Raider - A Origem da Vida",
@@ -13541,9 +12954,7 @@ window.series26Data = {
             "Fantasia",
             "Thriller"
         ]
-    }
 },
-{
     "313074": {
         "id": "313074",
         "name": "Espada da Vingança",
@@ -13582,9 +12993,7 @@ window.series26Data = {
         "genres": [
             "História"
         ]
-    }
 },
-{
     "480623": {
         "id": "480623",
         "name": "Uma Viagem de Natal",
@@ -13614,9 +13023,7 @@ window.series26Data = {
             "Romance",
             "Cinema TV"
         ]
-    }
 },
-{
     "315880": {
         "id": "315880",
         "name": "Lembranças de um Amor Eterno",
@@ -13676,9 +13083,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "261375": {
         "id": "261375",
         "name": "Voando Para Casa",
@@ -13721,9 +13126,7 @@ window.series26Data = {
         "genres": [
             "Romance"
         ]
-    }
 },
-{
     "72744": {
         "id": "72744",
         "name": "Pearl Jam Twenty",
@@ -13763,9 +13166,7 @@ window.series26Data = {
             "Documentário",
             "Música"
         ]
-    }
 },
-{
     "69380": {
         "id": "69380",
         "name": "Un mundo maravilloso",
@@ -13795,9 +13196,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "227970": {
         "id": "227970",
         "name": "Os Homens São de Marte... E é pra Lá Que Eu Vou!",
@@ -13852,9 +13251,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "584288": {
         "id": "584288",
         "name": "O Amor de Sylvie",
@@ -13890,9 +13287,7 @@ window.series26Data = {
             "Romance",
             "Drama"
         ]
-    }
 },
-{
     "881957": {
         "id": "881957",
         "name": "Capitã Nova",
@@ -13933,9 +13328,7 @@ window.series26Data = {
             "Família",
             "Ficção científica"
         ]
-    }
 },
-{
     "36939": {
         "id": "36939",
         "name": "Trair é Uma Arte",
@@ -14011,9 +13404,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "239566": {
         "id": "239566",
         "name": "Get on Up: A História de James Brown",
@@ -14057,9 +13448,7 @@ window.series26Data = {
             "Drama",
             "Música"
         ]
-    }
 },
-{
     "496872": {
         "id": "496872",
         "name": "Encontro de Classe 1.0",
@@ -14106,9 +13495,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "78206": {
         "id": "78206",
         "name": "Frango Com Ameixas",
@@ -14148,9 +13535,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "348677": {
         "id": "348677",
         "name": "Top Model",
@@ -14193,9 +13578,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "914216": {
         "id": "914216",
         "name": "O Rei Perdido",
@@ -14248,9 +13631,7 @@ window.series26Data = {
             "Drama",
             "História"
         ]
-    }
 },
-{
     "329829": {
         "id": "329829",
         "name": "A Jovem Rainha",
@@ -14303,9 +13684,7 @@ window.series26Data = {
             "História",
             "Romance"
         ]
-    }
 },
-{
     "409317": {
         "id": "409317",
         "name": "É Fada!",
@@ -14349,9 +13728,7 @@ window.series26Data = {
             "Comédia",
             "Fantasia"
         ]
-    }
 },
-{
     "340677": {
         "id": "340677",
         "name": "Invasão de Privacidade",
@@ -14414,9 +13791,7 @@ window.series26Data = {
         "genres": [
             "Thriller"
         ]
-    }
 },
-{
     "160070": {
         "id": "160070",
         "name": "1303: Apartamento do Mal",
@@ -14451,9 +13826,7 @@ window.series26Data = {
         "genres": [
             "Terror"
         ]
-    }
 },
-{
     "60062": {
         "id": "60062",
         "name": "Judy Moody Em Férias Incríveis",
@@ -14493,9 +13866,7 @@ window.series26Data = {
             "Comédia",
             "Família"
         ]
-    }
 },
-{
     "37529": {
         "id": "37529",
         "name": "Profecia: Renegados",
@@ -14535,9 +13906,7 @@ window.series26Data = {
             "Terror",
             "Thriller"
         ]
-    }
 },
-{
     "253353": {
         "id": "253353",
         "name": "Hannah Montana & Miley Cyrus: Show - O Melhor dos Dois Mundos",
@@ -14573,9 +13942,7 @@ window.series26Data = {
             "Documentário",
             "Música"
         ]
-    }
 },
-{
     "1013240": {
         "id": "1013240",
         "name": "24 Horas com Gaspar",
@@ -14623,9 +13990,7 @@ window.series26Data = {
             "Ficção científica",
             "Thriller"
         ]
-    }
 },
-{
     "244534": {
         "id": "244534",
         "name": "Um Novo Começo",
@@ -14665,9 +14030,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "271826": {
         "id": "271826",
         "name": "O Reino da Beleza",
@@ -14726,9 +14089,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "113148": {
         "id": "113148",
         "name": "Príncipes da Estrada",
@@ -14788,9 +14149,7 @@ window.series26Data = {
             "Comédia",
             "Drama"
         ]
-    }
 },
-{
     "336029": {
         "id": "336029",
         "name": "De Amor e Trevas",
@@ -14837,9 +14196,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "8780": {
         "id": "8780",
         "name": "Uma Mãe para o Meu Bebê",
@@ -14883,9 +14240,7 @@ window.series26Data = {
             "Comédia",
             "Romance"
         ]
-    }
 },
-{
     "36536": {
         "id": "36536",
         "name": "Onde Está o Garibaldo?",
@@ -14931,9 +14286,7 @@ window.series26Data = {
             "Família",
             "Música"
         ]
-    }
 },
-{
     "62527": {
         "id": "62527",
         "name": "Johnny Kapahala: De Volta ao Havaí",
@@ -14965,9 +14318,7 @@ window.series26Data = {
             "Drama",
             "Cinema TV"
         ]
-    }
 },
-{
     "873125": {
         "id": "873125",
         "name": "Roubando Mussolini",
@@ -15004,9 +14355,7 @@ window.series26Data = {
             "Crime",
             "Comédia"
         ]
-    }
 },
-{
     "64397": {
         "id": "64397",
         "name": "Saneamento Básico, o Filme",
@@ -15045,9 +14394,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "921353": {
         "id": "921353",
         "name": "No Lugar Errado",
@@ -15093,9 +14440,7 @@ window.series26Data = {
             "Crime",
             "Ação"
         ]
-    }
 },
-{
     "754800": {
         "id": "754800",
         "name": "Quando a Vida Acontece",
@@ -15130,9 +14475,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "94352": {
         "id": "94352",
         "name": "Cirque du Soleil: Outros Mundos",
@@ -15171,9 +14514,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "67612": {
         "id": "67612",
         "name": "Deus e o Diabo na Terra do Sol",
@@ -15219,9 +14560,7 @@ window.series26Data = {
             "Crime",
             "Drama"
         ]
-    }
 },
-{
     "389425": {
         "id": "389425",
         "name": "Código de Honra",
@@ -15262,9 +14601,7 @@ window.series26Data = {
             "Crime",
             "Thriller"
         ]
-    }
 },
-{
     "84972": {
         "id": "84972",
         "name": "Crônica de um Verão",
@@ -15299,9 +14636,7 @@ window.series26Data = {
         "genres": [
             "Documentário"
         ]
-    }
 },
-{
     "342472": {
         "id": "342472",
         "name": "Coração de Corredor",
@@ -15353,9 +14688,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "22477": {
         "id": "22477",
         "name": "Setembro",
@@ -15394,9 +14727,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "473234": {
         "id": "473234",
         "name": "Arjun Reddy",
@@ -15432,9 +14763,7 @@ window.series26Data = {
             "Drama",
             "Romance"
         ]
-    }
 },
-{
     "124117": {
         "id": "124117",
         "name": "Pixel: A Garota Perfeita",
@@ -15472,9 +14801,7 @@ window.series26Data = {
             "Ficção científica",
             "Comédia"
         ]
-    }
 },
-{
     "286256": {
         "id": "286256",
         "name": "Tim Maia",
@@ -15515,9 +14842,7 @@ window.series26Data = {
             "Música",
             "História"
         ]
-    }
 },
-{
     "246127": {
         "id": "246127",
         "name": "Tudo Vai Ficar Bem",
@@ -15568,9 +14893,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "734519": {
         "id": "734519",
         "name": "The Fable: The Killer Who Doesn't Kill",
@@ -15607,9 +14930,7 @@ window.series26Data = {
             "Comédia",
             "Crime"
         ]
-    }
 },
-{
     "82501": {
         "id": "82501",
         "name": "Estranha Obsessão",
@@ -15702,9 +15023,7 @@ window.series26Data = {
             "Mistério",
             "Thriller"
         ]
-    }
 },
-{
     "54178": {
         "id": "54178",
         "name": "Espadachim de um Braço",
@@ -15740,9 +15059,7 @@ window.series26Data = {
             "Ação",
             "Drama"
         ]
-    }
 },
-{
     "336652": {
         "id": "336652",
         "name": "Dois Amigos",
@@ -15779,9 +15096,7 @@ window.series26Data = {
             "Romance",
             "Comédia"
         ]
-    }
 },
-{
     "468735": {
         "id": "468735",
         "name": "A Madeline de Madeline",
@@ -15824,9 +15139,7 @@ window.series26Data = {
         "genres": [
             "Drama"
         ]
-    }
 },
-{
     "13280": {
         "id": "13280",
         "name": "Kickin' It Old Skool",
@@ -15861,9 +15174,7 @@ window.series26Data = {
         "genres": [
             "Comédia"
         ]
-    }
 },
-{
     "401285": {
         "id": "401285",
         "name": "Detetive Jagga",
@@ -15905,9 +15216,7 @@ window.series26Data = {
             "Mistério",
             "Romance"
         ]
-    }
 },
-{
     "22136": {
         "id": "22136",
         "name": "Ricky",
@@ -15986,6 +15295,4 @@ window.series26Data = {
             "Mistério",
             "Romance"
         ]
-    }
-}
-};
+}};
