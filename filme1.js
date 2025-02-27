@@ -1,5 +1,4 @@
 window.series1Data = {
-	{
     "950396": {
         "id": "950396",
         "name": "Entre Montanhas",
